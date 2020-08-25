@@ -1,0 +1,8 @@
+name: advancedlab-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - matplotlib
+  - pandas
