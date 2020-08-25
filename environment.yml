@@ -6,3 +6,4 @@ dependencies:
   - psutil
   - matplotlib
   - pandas
+  - uncertainties
